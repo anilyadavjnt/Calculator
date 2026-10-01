@@ -100,5 +100,3 @@ Through this project, I practiced:
 
 If you find this project useful, consider giving it a ⭐ on GitHub.
 
-
-
